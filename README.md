@@ -1,3 +1,2 @@
-# sqlserver
-A repository for SQL Server files and code.
-Note that each file matches its lesson number on YouTube. You can watch the SQL Server lessons from this link: https://www.youtube.com/watch?v=R_J9l_x8TAU&list=PLD_ylH-D2piDNIq65kYsED6nYYs1nhDQ_
+# SQL Server
+This repository here includes all the Python code for YouTube videos on Python by Dr. Z. You can visit the videos here: https://www.youtube.com/playlist?list=PLD_ylH-D2piDNIq65kYsED6nYYs1nhDQ_. Please note that the files have the same numerial prefixes as the videos but you may have to remove the numerical prefixes to work with them.
